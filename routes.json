@@ -1,10 +1,10 @@
 {
     "routes": [
-        {
-          "route": "/works/*",
-          "serve": "/index.html",
-          "statusCode": 200
-        },
+      {
+        "route": "/works/*",
+        "serve": "/index.html",
+        "statusCode": 200
+      },
       {
         "route": "/*",
         "serve": "/index.html",
